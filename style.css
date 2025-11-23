@@ -57,7 +57,7 @@ body {
 
 /*Flex-Shring -> Início*/
 .item3S {
-    flex-shrink: 1;
+    flex-shrink: 3;
 }
 /*Flex-Shring -> Fim*/
 
